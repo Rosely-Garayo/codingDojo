@@ -1,0 +1,36 @@
+button {
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    display: block; 
+    margin-left: 100px ;
+    margin-top: 10px ;
+}
+#buscador{
+    margin-top: 50px ;
+    color: rgb(87, 176, 218);
+    background-color: rgb(242, 243, 243);
+    border: 2px solid rgb(73, 210, 219); 
+    border-radius: 50px;
+    height: 30px;
+    width: 140px;  
+}
+
+#mas{
+    color: white;
+    background-color: rgb(44, 214, 177);
+    border: 2px solid rgb(44, 214, 177); 
+    border-radius: 50%;
+    height: 35px; 
+    width: 35px; 
+    font-size: 25px; 
+    
+}
+
+#crear{
+    color: white;
+    background-color: blue;
+    border: 2px solid black; 
+    height: 40px;
+    width: 150px; 
+    box-shadow: 10px 5px 5px black;
+}

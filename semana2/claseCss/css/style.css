@@ -1,0 +1,66 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(69, 44, 92);
+}
+h1{
+    background-color: #55B3C5;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    /*padding-left: 100px;
+*/
+
+
+}
+fieldset{
+    border: 2px dashed #DDDDDD;
+    margin: 20;
+    padding: 20px;
+}
+legend{
+    font-weight: bold;
+}
+.formElement{
+    width: 300px;
+    padding: 6px;
+    margin-bottom: 15px;
+}
+#information{
+    border: 1px solid #6278B0;
+    padding: 20px 40px;
+    display: block;
+    background-color: #CCE9F8;
+    text-align: center;
+    margin: 15px;
+}
+.submissionButtons{
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #D9534F ;
+    color: white;
+    border-radius: 5px;
+}
+.special{
+    background-color: #56C56F;
+}
+
+.submissionButtons:hover{
+    cursor: pointer;
+    opacity: 80%;
+}
+
+fieldset > div{
+    border: 1px solid black;
+}
+ul{
+    color: blue;
+}
+.menu{
+    color: green;
+}
+/*
+1. id
+2. clase
+3. elemento
+*/
